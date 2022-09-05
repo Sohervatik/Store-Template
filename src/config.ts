@@ -30,7 +30,7 @@ export default {
     {
       name: 'TWITTER',
       model: 'models/social_media/twitter.glb',
-      link: 'https://www.twitter.com',
+      link: 'https://www.twitter.com/EyesoFashionNFT',
       position: new Vector3(-0.5, 1.3, -5.35)
     },
     {
@@ -57,7 +57,7 @@ export default {
       name: 'L8LIFE White Hoodie',
       model: 'models/wearables/hoodie_female_WHITE.glb',
       link: 'https://market.decentraland.org/contracts/0x6a6165ac5a213c1d3199e351828f739e09fb48b7/items/1',
-      position: new Vector3(-4.2, -0.1, 5.1),
+      position: new Vector3(-4.2, 0, 5.1),
       rotation: Quaternion.Euler(0, 0, 0)
     },
     {
@@ -71,7 +71,7 @@ export default {
       name: 'Colorful Strapless Heart Dress',
       model: 'models/wearables/dress_texturized_2.glb',
       link: 'https://market.decentraland.org/contracts/0xc047535f6976eaba80a9c6f04af74f66622e55eb/items/1',
-      position: new Vector3(-5.1, -1, -3.3),
+      position: new Vector3(-5.1, -0.1, -3.3),
       rotation: Quaternion.Euler(0, 90, 0)
     },
     {
